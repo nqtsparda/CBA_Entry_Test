@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EBankTest</string>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+    <string name="hi">Hi, </string>
+    <string name="account_balance">Your Account Balance</string>
+    <string name="amount">Amount</string>
+    <string name="message">Message</string>
+    <string name="to">To</string>
+    <string name="contact">Contact</string>
+    <string name="browse">Browse</string>
+    <string name="bank">Bank</string>
+    <string name="acc_num">Account Number</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="pay">Pay</string>
+    <string name="to_acc_holder_name">To (account holders name)</string>
+    <string name="at_bank">At (recipient\'s bank)</string>
+    <string name="quit">Quit</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
